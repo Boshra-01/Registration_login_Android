@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "515513987447",
+    "firebase_url": "https://registratio-and-login.firebaseio.com",
+    "project_id": "registratio-and-login",
+    "storage_bucket": "registratio-and-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515513987447:android:53e88160679724c56e3172",
+        "android_client_info": {
+          "package_name": "com.example.registratioandlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515513987447-uqnds4m3jsj3c453dn8fjsqbqia9t62a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.registratioandlogin",
+            "certificate_hash": "3e9c3aed217372b9f6d565df7f8f7e79e315b742"
+          }
+        },
+        {
+          "client_id": "515513987447-vot7vdfgjdguu9ni852olbovpaqinft6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPUXFK4Q8Bet58AfQmD0saaBZPpvN9dlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515513987447-vot7vdfgjdguu9ni852olbovpaqinft6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
